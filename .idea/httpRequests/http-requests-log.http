@@ -1,0 +1,549 @@
+GET http://localhost:4000/api/todo/
+Content-Type: application/json
+
+<> 2023-05-03T142719.201.json
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "to do 5",
+  "description": "fgdhoajfofrgoerjgerjgwergowergowergowgiwrgiqrjgiwrgwi",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-05-03T142716.201.json
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "to do 4",
+  "description": "fgdhoajfofrgoerjgerjgwergowergowergowgiwrgiqrjgiwrgwi",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-05-03T142712.201.json
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "to do 3",
+  "description": "fgdhoajfofrgoerjgerjgwergowergowergowgiwrgiqrjgiwrgwi",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-05-03T142706.201.json
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "to do 2",
+  "description": "fgdhoajfofrgoerjgerjgwergowergowergowgiwrgiqrjgiwrgwi",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-05-03T142700.201.json
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "to do 1",
+  "description": "fgdhoajfofrgoerjgerjgwergowergowergowgiwrgiqrjgiwrgwi",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-05-03T142647.201.json
+
+###
+
+GET http://localhost:4000/api/todo/
+Content-Type: application/json
+
+<> 2023-04-30T233839.201.json
+
+###
+
+PUT http://localhost:4000/api/todo/644f2cbb1a67e1119eaa4612
+Content-Type: application/json
+
+{
+  "name": "aprender docker up",
+  "description": "aprender docker y hacer un crud en node, react ... MERN y montarlo en docker",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-04-30T233834.201.json
+
+###
+
+PUT http://localhost:4000/api/todo/644f2cbb1a67e1119eaa4612
+Content-Type: application/json
+
+{
+  "name": "aprender docker up",
+  "description": "aprender docker y hacer un crud en node, react ... MERN y montarlo en docker",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+###
+
+PUT http://localhost:4000/api/todo/644f2cbb1a67e1119eaa4612
+Content-Type: application/json
+
+{
+  "description": "aprender docker y hacer un crud en node, react ... MERN y montarlo en docker",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-04-30T233727.500.json
+
+###
+
+GET http://localhost:4000/api/todo/
+Content-Type: application/json
+
+<> 2023-04-30T233705.201.json
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "description": "aprender docker y montar un crud en un mern",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-04-30T233700.400.json
+
+###
+
+PUT http://localhost:4000/api/todo/644f2cbb1a67e1119eaa4612
+Content-Type: application/json
+
+{
+  "name": "aprender docker up",
+  "description": "aprender docker y hacer un crud en node, react ... MERN y montarlo en docker",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-04-30T233638.500.json
+
+###
+
+GET http://localhost:4000/api/todo/
+Content-Type: application/json
+
+<> 2023-04-30T233551.201.json
+
+###
+
+GET http://localhost:4000/api/todo/
+Content-Type: application/json
+
+<> 2023-04-30T232641.201.json
+
+###
+
+DELETE http://localhost:4000/api/todo/644f2c5e1a67e1119eaa4610
+Accept: application/json
+
+<> 2023-04-30T232636.201.json
+
+###
+
+DELETE http://localhost:4000/api/notes/644f2c5e1a67e1119eaa4610
+Accept: application/json
+
+###
+
+GET http://localhost:4000/api/todo/
+Content-Type: application/json
+
+<> 2023-04-30T231015.201.json
+
+###
+
+GET http://localhost:4000/api/todo/
+Content-Type: application/json
+
+<> 2023-04-30T230728.201.json
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "aprender docker",
+  "description": "aprender docker y montar un crud en un mern",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-04-30T230635.201.json
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)"
+}
+
+<> 2023-04-30T230502.201.json
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T230435.400.html
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T230225.400.html
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T230120.400.html
+
+###
+
+GET http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T230113.400.html
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T230046.400.html
+
+###
+
+POST http://localhost:4000/api/t/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T225928.400.html
+
+###
+
+POST http://localhost:4000/api/tod/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T225925.400.html
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T225918.400.html
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T225900.400.html
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T225753.400.html
+
+###
+
+POST http://localhost:4000/api/todo/
+Content-Type: application/json
+
+{
+  "name": "asdasd",
+  "description": "cambiar titulo",
+  "date": "Tue Jan 31 2023 14:00:00 GMT-0500 (Cuba Standard Time)",
+}
+
+<> 2023-04-30T225424.400.html
+
+###
+
+POST http://localhost:5000/api/auth
+Content-Type: application/json
+
+{
+  "name": "sheila",
+  "email": "sheilafundora04@gmail.com",
+  "password": "1"
+}
+
+<> 2023-02-04T225100.400.json
+
+###
+
+POST http://localhost:5000/api/auth
+Content-Type: application/json
+
+{
+  "name": "sheila",
+  "email": "sheilafundora04@gmail.com",
+  "password": "123456789"
+}
+
+<> 2023-02-04T225006.201.json
+
+###
+
+DELETE http://localhost:5000/api/notes/63dbe93fa110b03bb349e9a9
+Accept: application/json
+
+<> 2023-02-04T122455.401.json
+
+###
+
+PUT http://localhost:5000/api/notes/63dddfeef60367815cbd82f4
+Content-Type: application/json
+
+{
+  "title": "nota de shela modificada",
+  "description": "modificando la priemra nota",
+  "date": "Tue Jan 31 2023 ",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2RkZDEyZDlhMzZiMzEzMThjMDU5ZTAiLCJuYW1lIjoic2hlaWxhIiwiaWF0IjoxNjc1NTMxMTUxLCJleHAiOjE2NzU1MzgzNTF9.YZBHLhCoibFpUsYysR6cCwHTajfgtsN0CLFiz02y4xs"
+}
+
+<> 2023-02-04T122455.201.json
+
+###
+
+GET http://localhost:5000/api/notes/
+Content-Type: application/json
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2RkZDEyZDlhMzZiMzEzMThjMDU5ZTAiLCJuYW1lIjoic2hlaWxhIiwiaWF0IjoxNjc1NTMxMTUxLCJleHAiOjE2NzU1MzgzNTF9.YZBHLhCoibFpUsYysR6cCwHTajfgtsN0CLFiz02y4xs"
+}
+
+<> 2023-02-04T122454.201.json
+
+###
+
+POST http://localhost:5000/api/notes/
+Content-Type: application/json
+
+{
+  "title": "nota de shela",
+  "description": "tercera  nota",
+  "date": "Tue Jan 31 2023 ",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2RkZDEyZDlhMzZiMzEzMThjMDU5ZTAiLCJuYW1lIjoic2hlaWxhIiwiaWF0IjoxNjc1NDg1MTIwLCJleHAiOjE2NzU0OTIzMjB9.J5v0ADmmeJ3PBXs-wxyrGSf1cejoAGcjq9wR4Aj4-ak"
+}
+
+<> 2023-02-04T122454.401.json
+
+###
+
+DELETE http://localhost:5000/api/notes/63dbe93fa110b03bb349e9a9
+Accept: application/json
+
+<> 2023-02-04T122434.401.json
+
+###
+
+DELETE http://localhost:5000/api/notes/63dbe93fa110b03bb349e9a9
+Accept: application/json
+
+<> 2023-02-04T122432.401.json
+
+###
+
+DELETE http://localhost:5000/api/notes/63dbe93fa110b03bb349e9a9
+Accept: application/json
+
+<> 2023-02-04T122419.401.json
+
+###
+
+DELETE http://localhost:5000/api/notes/63dbe93fa110b03bb349e9a9
+Accept: application/json
+
+<> 2023-02-04T122357.401.json
+
+###
+
+DELETE http://localhost:5000/api/notes/63dbe93fa110b03bb349e9a9
+Accept: application/json
+
+<> 2023-02-04T122355.401.json
+
+###
+
+GET http://localhost:5000/api/notes/
+Content-Type: application/json
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2RkZDEyZDlhMzZiMzEzMThjMDU5ZTAiLCJuYW1lIjoic2hlaWxhIiwiaWF0IjoxNjc1NTMxMTUxLCJleHAiOjE2NzU1MzgzNTF9.YZBHLhCoibFpUsYysR6cCwHTajfgtsN0CLFiz02y4xs"
+}
+
+<> 2023-02-04T122049.201.json
+
+###
+
+PUT http://localhost:5000/api/notes/63dddfeef60367815cbd82f4
+Content-Type: application/json
+
+{
+  "title": "nota de shela modificada",
+  "description": "modificando la priemra nota",
+  "date": "Tue Jan 31 2023 ",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2RkZDEyZDlhMzZiMzEzMThjMDU5ZTAiLCJuYW1lIjoic2hlaWxhIiwiaWF0IjoxNjc1NTMxMTUxLCJleHAiOjE2NzU1MzgzNTF9.YZBHLhCoibFpUsYysR6cCwHTajfgtsN0CLFiz02y4xs"
+}
+
+<> 2023-02-04T122042.201.json
+
+###
+
+GET http://localhost:5000/api/notes/
+Content-Type: application/json
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2RkZDEyZDlhMzZiMzEzMThjMDU5ZTAiLCJuYW1lIjoic2hlaWxhIiwiaWF0IjoxNjc1NTMxMTUxLCJleHAiOjE2NzU1MzgzNTF9.YZBHLhCoibFpUsYysR6cCwHTajfgtsN0CLFiz02y4xs"
+}
+
+<> 2023-02-04T122025.201.json
+
+###
+
+PUT http://localhost:5000/api/notes/63dbe93fa110b03bb349e9a9
+Content-Type: application/json
+
+{
+  "title": "nota de shela modificada",
+  "description": "modificando la priemra nota",
+  "date": "Tue Jan 31 2023 ",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2RkZDEyZDlhMzZiMzEzMThjMDU5ZTAiLCJuYW1lIjoic2hlaWxhIiwiaWF0IjoxNjc1NTMxMTUxLCJleHAiOjE2NzU1MzgzNTF9.YZBHLhCoibFpUsYysR6cCwHTajfgtsN0CLFiz02y4xs"
+}
+
+<> 2023-02-04T122019.400.json
+
+###
+
+PUT http://localhost:5000/api/notes/63dbe93fa110b03bb349e9a6
+Content-Type: application/json
+
+{
+  "title": "nota de shela modificada",
+  "description": "modificando la priemra nota",
+  "date": "Tue Jan 31 2023 ",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2Q5ZDdjZmM1YThkNDEyYzAxZTQ0ZWYiLCJuYW1lIjoic2hlaWxhIiwiaWF0IjoxNjc1MzU1NjU0LCJleHAiOjE2NzUzNjI4NTR9.4_OISEmPbwsUf8Vg4cWXA1K_cigQ90pDyW892YYd0oU"
+}
+
+<> 2023-02-04T122006.401.json
+
+###
+
+GET http://localhost:5000/api/notes/
+Content-Type: application/json
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2M2RkZDEyZDlhMzZiMzEzMThjMDU5ZTAiLCJuYW1lIjoic2hlaWxhIiwiaWF0IjoxNjc1NTMxMTUxLCJleHAiOjE2NzU1MzgzNTF9.YZBHLhCoibFpUsYysR6cCwHTajfgtsN0CLFiz02y4xs"
+}
+
+<> 2023-02-04T121925.201.json
+
+###
+
